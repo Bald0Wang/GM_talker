@@ -1,0 +1,1 @@
+SoVITS_weights/Gyujie1_e8_s80.pth

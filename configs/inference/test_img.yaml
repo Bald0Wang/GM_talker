@@ -1,0 +1,6 @@
+task_1:
+ video_path: "/root/MuseTalk/data/img/girl.png"
+ audio_path: "data/audio/zuiai.wav"
+ bbox_shift: 0
+  
+
