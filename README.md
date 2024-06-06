@@ -32,7 +32,7 @@ GM_talker 是融合 GPT_SoVITS 及 Musetalker 的语音数字人综合项目项�
 
 找到：
 
-/root/GPT-SoVITS/GPT_SoVITS/inference_webui.py 文件后
+/root/gm_talker/GPT_SoVITS/inference_webui.py文件后
 
 在 888 行添加自己的 deepseek key
 
@@ -133,3 +133,7 @@ chat 这里可以进行对话，输入即可得到需要的回答。你可以编
 ![](static/Dcczb85Mpo7NbyxVm6VcFWTonYe.png)
 
 ## 3.3 效果展示
+# 4.引用
+https://github.com/RVC-Boss/GPT-SoVITS
+https://github.com/deepseek-ai/DeepSeek-LLM
+https://github.com/TMElyralab/MuseTalk
